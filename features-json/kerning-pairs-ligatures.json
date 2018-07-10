@@ -1,8 +1,8 @@
 {
   "title":"Improved kerning pairs & ligatures",
   "description":"Currently non-standard method of improving kerning pairs & ligatures using `text-rendering: optimizeLegibility`.",
-  "spec":"https://svgwg.org/svg2-draft/painting.html#TextRenderingProperty",
-  "status":"draft",
+  "spec":"https://www.w3.org/TR/SVG2/",
+  "status":"cr",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering",
